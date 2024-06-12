@@ -46,7 +46,7 @@ public abstract class Conta implements IConta {
     protected void imprimirDados() {
         System.out.println("""
                     
-                    Titula: %s
+                    Titular: %s
                     Agência: %d
                     Número: %d
                     Saldo: %.2f
